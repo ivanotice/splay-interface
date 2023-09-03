@@ -1,7 +1,7 @@
 $(document).ready(function(){
       $('.carousel .slides').slick({
-        slidesToShow: 5, // Mostrar 4 películas a la vez
-        slidesToScroll: 1, // Desplazarse de una película a la vez
+        slidesToShow: 4, // Mostrar 4 películas a la vez
+        slidesToScroll: 2, // Desplazarse de una película a la vez
         autoplay: true, // Activar reproducción automática
         autoplaySpeed: 1000, // Intervalo de tiempo entre cada película (en milisegundos)
         arrows: false, // Desactivar los botones de siguiente y anterior
