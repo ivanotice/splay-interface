@@ -5,12 +5,12 @@
     }
 
     .carousel img {
-      width: 100px; /* Ajusta el tamaño de la imagen según tus necesidades */
+      width: 97px; /* Ajusta el tamaño de la imagen según tus necesidades */
       height: auto;
     }
 
     .slick-slide {
-      margin: 10px; /* Ajusta la separación entre cada película según tus necesidades */
+      margin: 17px; /* Ajusta la separación entre cada película según tus necesidades */
     }
 
     .slick-slide img {
@@ -18,11 +18,11 @@
     }
 
     .slick-slide img:hover {
-      transform: scale(1.1); /* Ajusta la escala de la imagen al hacer hover según tus necesidades */
+      transform: scale(1.2); /* Ajusta la escala de la imagen al hacer hover según tus necesidades */
     }
 
     .carousel-title {
-      text-align: center;
+      text-align: left;
       font-size: 24px; /* Ajusta el tamaño de fuente del título según tus necesidades */
       margin-bottom: 20px; /* Ajusta el margen inferior del título según tus necesidades */
     }
